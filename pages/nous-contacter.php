@@ -5,6 +5,8 @@
      Email : alexisvedrenne482@gmail.com
 -->
 <html>
+    <head><link href="../css/carto.css" rel="stylesheet" type="text/css">
+        <link href="../css/contact.css" rel="stylesheet" type="text/css"></head>
     <?php 
         include('../Include/head.inc.php');
         include('../Include/header.inc.php');
