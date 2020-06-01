@@ -2,8 +2,8 @@
 class bdd
 {   
     private $_host = '127.0.0.1';
-    private $_user = '';
-    private $_pwd = '';
+    private $_user = 'nolarkuser';
+    private $_pwd = 'nolarkpwd';
     private $_dbname = 'nolark';
     public $_cnx;   
     public function __construct($user,$pwd) {

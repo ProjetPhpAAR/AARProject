@@ -13,9 +13,9 @@
  <section id="inscrit">
      <h1>Formulaire d'inscription :</h1></br>
         <p>Merci de bien remplir ces champs afin de continuer.</p></br>
-        <form action="trait-inscription.php" method="post" name="Inscription">
+        <form  method="post" name="Inscription">
             <div id="inscritsbox">
-                <h2>Identifiant</h2></br>
+                <h3>Identifiant</h3></br>
                 <div id="inscritstext">
                     <div><label for="pseudo">Pseudo : (3 à 32 caractères)</label>   <input type="text" name="pseudo" id="pseudo" size="30" /> </div></br></br>
                     <div><label for="mdp">Mot de passe : (4 à 50 caractères)</label>  <input type="password" name="mdp" id="mdp" size="30" /></div></br></br>

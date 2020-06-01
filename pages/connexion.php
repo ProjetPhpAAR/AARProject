@@ -19,7 +19,7 @@
                         </br>
                         </br>
                     <i class="fa fa-user" aria-hidden="true"></i>
-                    <input type="text" name="pseudo" id="pseudo" size="35" required placeholder="Identifiant" value="<?php if (isset($pseudo)) echo htmlentities(trim($pseudo)); ?>">
+                    <input type="text" name="login" id="pseudo" size="35" required placeholder="Identifiant" value="">
                         </br>
                     <i class="fa fa-lock" aria-hidden="true"></i>
                     <input type="password" name="mdp" placeholder="Mot de passe" id="mdp" size="35" required >
